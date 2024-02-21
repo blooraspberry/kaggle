@@ -1,0 +1,7 @@
+# Ignore modules
+kaggle_env/
+
+# Ignore all csvs
+*.csv
+*.xlsx
+*.zip
